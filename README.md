@@ -3,7 +3,7 @@
 **Input Pipeline:**
 
 1. **Audio Files** → **Speech-to-Text** → **Raw Transcripts** → **Text Processing** → **Analysis Engine** → **Output Files**
-
+<pre>
 Phase 1: Audio Processing & Transcription
 2. Audio Files (5 sessions per subject)
     ↓
@@ -38,5 +38,7 @@ Semantic Similarity Analysis
 Contradiction Pattern Detection
     ↓
 Confidence Scoring
+</pre>
+    
 
 
